@@ -43,7 +43,7 @@
             <EditText
                 android:id="@+id/edit_pet_name"
                 android:hint="@string/hint_pet_name"
-                android:inputType="textCapWords"
+                android:inputType="text"
                 style="@style/EditorFieldStyle" />
 
             <!-- Breed field -->
